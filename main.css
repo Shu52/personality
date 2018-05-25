@@ -1,0 +1,40 @@
+ body{
+        background: url("space1.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position:center;
+        font-size: 250%;
+    }
+    
+    #results{
+    display:block;
+    max-width: 50%;
+    max-height: 25%;
+    margin-left: auto;
+    margin-right:auto;
+    opacity: .8;
+    border-radius: 15%;
+    }
+   .heading{
+       color:ivory;
+    text-align: center;
+   } 
+   .description{
+       color:blue;
+       background-color: ivory;
+       line-height:1.25em;
+       text-align: center;
+       margin-right:10%;
+       margin-left: 10%; 
+       text-shadow: 1px 1px 1px #000000;
+       border-radius: 15px;
+       opacity: 0.8;
+   }
+   h3{
+       color:ivory;
+   }
+   ul li{
+       color:ivory;
+       list-style: none;
+       text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+   }
